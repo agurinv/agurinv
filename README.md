@@ -20,7 +20,7 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 
 - 😄 My Pronouns: He/His/Him   
 
