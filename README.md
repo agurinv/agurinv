@@ -6,11 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexHuryn&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
-<p align="center">
-  <a href="#">Website</a> •
-  <a href="#">Twitter</a>
-</p>
-
  <!-- About section -->
 
 ---
