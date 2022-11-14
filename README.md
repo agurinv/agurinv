@@ -9,9 +9,7 @@
  <!-- About section -->
 
 ---
-✨ I'm a frontend engineer and technical writer passionate about making the web accessible to everyone and advocating for building open and inclusive developer communities. 
-
-I love sharing my knowledge with others, and I do that through content creation on my Blog and YouTube channel. I'm a [GitHub Star](https://stars.github.com/profiles/lauragift21/), Media Developer Expert at Cloudinary, an Auth0 Ambassador, and Nuxt.js Ambassador. When I'm not coding, you can find me geeking about photography and exploring different ways of documenting stories using photography.
+✨ 
 
 
 <!-- code gif-->
@@ -33,6 +31,7 @@ I love sharing my knowledge with others, and I do that through content creation 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn" alt="Gift's LangStat" />
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexHuryn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
