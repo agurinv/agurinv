@@ -3,7 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexHuryn&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@ I love sharing my knowledge with others, and I do that through content creation 
 
 - 😄 My Pronouns: He/His/Him   
 
-- 💬 Ask me about: Vue, Jamstack, Building Career In Tech, Content Creation.
+- 💬 Ask me about: 
 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+- 📫 How to reach me: [](#)
 
-- ⚡ Fun fact: I enjoy cooking and I'm known as the Mistress of Nigerian Jollof. If you don't know what that is [check it out here](https://www.youtube.com/watch?v=kQs5lX91h98)
+- ⚡ Fun fact: 
 
 <!-- About section: END -->
 
@@ -67,10 +67,5 @@ I love sharing my knowledge with others, and I do that through content creation 
 </details>
 
 <!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexHuryn&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 <!-- THE END -->
