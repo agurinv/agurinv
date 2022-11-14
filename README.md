@@ -31,25 +31,14 @@ I love sharing my knowledge with others, and I do that through content creation 
 - ⚡ Fun fact: 
 
 <!-- About section: END -->
-
-
-<!-- Conecct section -->
-
-<h2>Connect with me </h3>
-    <p>
-        <a href="#"><img src="https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=#" alt="LinkedIn Badge"></a> 
-       <a href="#"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-   </p>
-
- <!-- Conecct section: END -->
  
-  <!-- GitHub section -->
+<!-- GitHub section -->
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn" alt="Gift's LangStat" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexHuryn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexHuryn&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 **Expand to view**
