@@ -1,11 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi everyone!</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexHuryn&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
  <!-- About section -->
 
 ---
