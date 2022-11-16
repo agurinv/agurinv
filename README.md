@@ -6,7 +6,7 @@
 ---
 
 <!-- code gif-->
-<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="580" height="400" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="50%"/>
 
 
 
