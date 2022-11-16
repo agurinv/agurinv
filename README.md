@@ -26,19 +26,19 @@
 
 <p align="center">
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHuryn&theme=dracula&hide_border=true&area=true&layout=compact" width="48%"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHuryn&theme=dracula&hide_border=true&area=true&layout=compact" width="68%"> 
 </a>
 </p>
 
 <p align="center">
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=AlexHuryn&stars,commits,prs,issues,contribs&theme=dracula&hide_border=true&area=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=AlexHuryn&stars,commits,prs,issues,contribs&theme=dracula&hide_border=true&area=true" width="68%">
 </a>
 </p>
 
 <p align="center">
 <a href="#">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn&theme=dracula&hide_border=true&area=true" alt="github stats" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn&theme=dracula&hide_border=true&area=true" alt="github stats" width="68%">
 </a>
 </p>
 
