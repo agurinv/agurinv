@@ -4,19 +4,19 @@
  <!-- About section -->
 
 ---
-✨ 
-
 
 <!-- code gif-->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="380" height="200" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="580" height="400" />
 
-- 😄 My Pronouns: He/His/Him   
 
-- 💬 Ask me about: 
+
+✨ 
+
+- 💬 Talks about: 
 
 - 📫 How to reach me: [](#)
 
-- ⚡ Fun fact: 
+
 
 <!-- About section: END -->
  
