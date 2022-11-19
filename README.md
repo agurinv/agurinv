@@ -9,8 +9,11 @@
 <img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="100%"/>
 
 <h1 align="center">✨</h1> 
+
 - 💬 Talks about: 
+
 - 📫 How to reach me: [](#)
+
 <!-- About section: END -->
  
 <!-- GitHub section -->
