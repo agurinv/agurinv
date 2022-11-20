@@ -1,28 +1,26 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi everyone!</h3>
+<h1 align="center">
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:40px"> Hi everyone!</h1>
 
  <!-- About section -->
-
 ---
 
 <!-- code gif-->
 <img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="100%"/>
 
-
-
-✨ 
+<h1 align="center">✨</h1> 
 
 - 💬 Talks about: 
 
 - 📫 How to reach me: [](#)
 
-
-
 <!-- About section: END -->
  
 <!-- GitHub section -->
-
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+<h1 align="center">
+<img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+My GitHub Stats 
+<h1>
 
 <p align="center">
 <a href="#">
@@ -41,7 +39,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn&theme=dracula&hide_border=true&area=true" alt="github stats" width="58%">
 </a>
 </p>
-
 <!-- GitHub section: END -->
 
 <!-- THE END -->
