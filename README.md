@@ -10,7 +10,7 @@
 
 <h1 align="center">✨</h1> 
 
-- 💬 Talks about: 
+- 💬 Talks about: AI, Python and Web
 
 - 📫 How to reach me: [](#)
 
