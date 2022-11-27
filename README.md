@@ -41,4 +41,11 @@ My GitHub Stats
 </p>
 <!-- GitHub section: END -->
 
+<p align="center">
+<a href="#">
+<img src="https://activity-graph.herokuapp.com/graph?username=AlexHuryn&theme=dracula&hide_border=true&area=true&bg_color=false" width="100%"> 
+</a>
+</p>
+<hr />
+
 <!-- THE END -->
