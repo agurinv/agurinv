@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:40px"> Hi!</h1>
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:32px"> Hi!</h1>
 
  <!-- About section -->
 ---
