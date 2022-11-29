@@ -12,7 +12,7 @@
 
 - 💬 **Talks about:** AI, Python, Web and Blockchain
 
-- 📫 **How to reach me:** [](#)
+- 📫 **How to reach me:** [LinkedIn](#)
 
 <!-- About section: END -->
  
