@@ -10,9 +10,9 @@
 
 <h1 align="center">✨</h1> 
 
-- 💬 **Talks about:** AI, Python, Web and Blockchain
+- 💬 **Talks about: AI, Python, Web and Blockchain**
 
-- 📫 **How to reach me:** [LinkedIn](#)
+- 📫 **How to reach me: [LinkedIn](#)**
 
 <!-- About section: END -->
  
