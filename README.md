@@ -1,14 +1,7 @@
 <!-- Heading -->
-<h1 align="center">
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width:32px"> Hi!</h1>
+<h1 align="center">Hi!😀</h1>
 
- <!-- About section -->
----
-
-<!-- code gif-->
-<img align="center" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy-downsized.gif" width="100%"/>
-
-<h1 align="center">✨</h1> 
+ <!-- About section --> 
 
 - 💬 **Talks about: AI, Python, Web and Blockchain**
 
