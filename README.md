@@ -17,7 +17,7 @@ My GitHub Stats
 
 <p align="right">
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHuryn&theme=dracula&hide_border=true&area=true&layout=compact" width="497px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHuryn&theme=dracula&hide_border=true&area=true&layout=compact" width="49%">
 <img src="https://github-readme-stats.vercel.app/api?username=AlexHuryn&stars,commits,prs,issues,contribs&theme=dracula&hide_border=true&area=true" width="50%" alight="left">
 </a>
 </p>
