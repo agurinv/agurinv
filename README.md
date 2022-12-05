@@ -15,9 +15,9 @@
 My GitHub Stats 
 <h1>
  
-<p align="right">
+<p align="center">
 <a href="#">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexHuryn&theme=dracula" width="98%">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexHuryn&theme=react-dark" width="95%">
 </a>
 </p>
 
