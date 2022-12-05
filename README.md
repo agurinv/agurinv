@@ -27,7 +27,6 @@ My GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn&theme=dracula&hide_border=true&area=true" alt="github stats" width="58%">
 </a>
 </p>
-<hr>
 <!-- GitHub section: END -->
 
 <!-- THE END -->
