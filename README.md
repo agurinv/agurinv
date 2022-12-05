@@ -17,7 +17,7 @@ My GitHub Stats
  
 <p align="center">
 <a href="#">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexHuryn&theme=react-dark" width="95%">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=AlexHuryn&theme=react-dark" width="98%">
 </a>
 </p>
 
