@@ -5,6 +5,8 @@
 
 - 💬 **Talks about: AI, Python, Web and Blockchain**
 
+- ✨ **Creating bugs since 2019**
+
 - 📫 **How to reach me: [LinkedIn](#)**
 
 <!-- About section: END -->
