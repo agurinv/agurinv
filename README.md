@@ -7,7 +7,7 @@
 
 - ✨ **Fixing bugs since 2019**
 
-- 📫 **How to reach me: [LinkedIn](#)**
+- 📫 **I am constantly learning new things**
 
 <!-- About section: END -->
  
