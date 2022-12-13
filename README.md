@@ -19,14 +19,14 @@ My GitHub Stats
 
 <p align="right">
 <a href="#">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexHuryn&theme=dracula" width="49%">
-<img src="https://github-readme-stats.vercel.app/api?username=AlexHuryn&show_icons=true&theme=dracula" width="49%" alight="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=agurinv&theme=dracula" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=agurinv&show_icons=true&theme=dracula" width="49%" alight="left">
 </a>
 </p>
  
 <p align="center">
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHuryn&layout=compact&theme=dracula" alt="github stats" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agurinv&layout=compact&theme=dracula" alt="github stats" width="50%">
 </a>
 </p>
  
