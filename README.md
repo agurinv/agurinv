@@ -6,7 +6,7 @@
 
 - 💬 **Talks about: AI, Python, Web and Blockchain**
 
-- ✨ **Fixing bugs since 2019**
+- ✨ **Creating programs since 2019**
 
 - 📫 **I am constantly learning new things**
 
